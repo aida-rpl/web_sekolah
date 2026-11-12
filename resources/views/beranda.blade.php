@@ -182,7 +182,7 @@
                         </a>
                     </div>
                     <div class="row">
-                        <div class="col-3 mt-2">
+                        <div class="col-md-3 mt-2">
                             <div class="card">
                                 <img src="{{ asset('images/upacara.jpg') }}" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -193,7 +193,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 mt-2">
+                        <div class="col-md-3 mt-2">
                             <div class="card">
                                 <img src="{{ asset('images/pramuka.jpg') }}" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -204,7 +204,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 mt-2">
+                        <div class="col-md-3 mt-2">
                             <div class="card">
                                 <img src="{{ asset('images/mpls.jpg') }}" class="card-img-top" alt="...">
                                 <div class="card-body">
@@ -216,7 +216,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-3 mt-2">
+                        <div class="col-md-3 mt-2">
                             <div class="card">
                                 <img src="{{ asset('images/dn.jpg') }}" class="card-img-top" alt="...">
                                 <div class="card-body">
